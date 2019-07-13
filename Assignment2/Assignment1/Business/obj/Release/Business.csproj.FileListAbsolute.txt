@@ -1,0 +1,10 @@
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\Business.dll.config
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\Business.dll
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\Business.pdb
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\DataAccess.dll
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\Models.dll
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\DataAccess.pdb
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\bin\Release\Models.pdb
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\obj\Release\Business.dll
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\Business\obj\Release\Business.pdb

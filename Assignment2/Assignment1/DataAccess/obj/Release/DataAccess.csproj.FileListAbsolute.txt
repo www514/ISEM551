@@ -1,0 +1,5 @@
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\DataAccess\bin\Release\DataAccess.dll
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\DataAccess\bin\Release\DataAccess.pdb
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\DataAccess\obj\Release\DataAccess.dll
+C:\Baba\HBU\HBU_CLASS_FINAL_MATERIAL\TestMVCApplication\DataAccess\obj\Release\DataAccess.pdb
